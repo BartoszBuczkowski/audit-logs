@@ -10,6 +10,17 @@ First, install dependencies:
 pnpm install
 ```
 
+Create `.env` in root directory and fill by variables
+
+```
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_NAME=
+DB_PORT=
+
+```
+
 Then, run the development server:
 
 ```bash
